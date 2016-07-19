@@ -1,0 +1,4 @@
+如果只使用qstp模块，可在Makefile中关闭交叉编译的宏
+如果使用羚羊云平台模块，本demo中提供的库是在hisiv300环境下交叉编译的。
+本demo中提供的lyUtils.c为羚羊的工具函数，不是必须的。aacUtil.ch264Util.c和pushFile.c及相关头文件是推aac文件和h264文件所需要的，不是必须的，在makefile中取消交叉编译，便可在linux环境下使用羚羊云的qstp模块，可快速体验羚羊云极速视频直播技术。
+必须用到的羚羊头文件在include/lingyang文件夹下
