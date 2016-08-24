@@ -12,6 +12,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[API-推流拉流](public-doc/SDK-C/c_api_livestream.md)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[API-直播录制](http://doc.topvdn.com/api/index.html#!public-doc/SDK-C/c_api_livestream.md#2_%E6%94%AF%E6%8C%81%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[API-其他](public-doc/SDK-C/c_api_others.md)<br />
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Demo源码](https://github.com/AntelopeCloud/SDK-C)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[下载SDK](https://codeload.github.com/AntelopeCloud/SDK-C/zip/master)<br />
